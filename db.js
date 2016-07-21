@@ -1,3 +1,7 @@
+// https://www.npmjs.com/package/console.table
+
+
+
 //INITIALIZES THE NPM PACKAGES USED//
 var mysql = require('mysql');
 var inquirer = require('inquirer');
